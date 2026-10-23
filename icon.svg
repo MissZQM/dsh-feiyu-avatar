@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Chat Avatars">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#f3f6fb"/>
+  <circle cx="24" cy="27" r="13" fill="#3d6fb4"/>
+  <circle cx="24" cy="24" r="4.6" fill="#f3f6fb"/>
+  <path d="M15.5 35.5c2.4-4.4 5-6.2 8.5-6.2s6.1 1.8 8.5 6.2c-2.6 2.6-5.4 3.9-8.5 3.9s-5.9-1.3-8.5-3.9z" fill="#f3f6fb"/>
+  <circle cx="42" cy="38" r="11" fill="#8fb6e6"/>
+  <circle cx="42" cy="35.4" r="3.9" fill="#f3f6fb"/>
+  <path d="M34.8 45.2c2-3.7 4.2-5.2 7.2-5.2s5.2 1.5 7.2 5.2c-2.2 2.2-4.6 3.3-7.2 3.3s-5-1.1-7.2-3.3z" fill="#f3f6fb"/>
+  <path d="M31 46.5h13" stroke="#3d6fb4" stroke-width="2" stroke-linecap="round" opacity=".25"/>
+</svg>

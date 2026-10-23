@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.log
+.tmp/
+.DS_Store
+Thumbs.db
+
+# 插件本身不含任何头像位图；这几行是防误提交真实头像用的。
+# 需要放截图时用 PNG（docs/preview.png），不要用 JPG。
+*.jpg
+*.jpeg
+*.webp
+*.gif
